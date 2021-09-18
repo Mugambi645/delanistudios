@@ -4,3 +4,14 @@ nav {
     background-size: cover;
     background-repeat: no-repeat;
 }
+.about-us {
+    background-color: gainsboro;
+    padding: 100px;
+}
+.services {
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    color: white;
+}
