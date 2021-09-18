@@ -1,0 +1,23 @@
+{
+  "name": "delanistudios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mugambi645/delanistudios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mugambi645/delanistudios/issues"
+  },
+  "homepage": "https://github.com/Mugambi645/delanistudios#readme",
+  "dependencies": {
+    "typed.js": "^2.0.12"
+  }
+}

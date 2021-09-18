@@ -51,3 +51,8 @@ nav {
 .social_icons {
     padding: 100px;
 }
+#arrow-right {
+
+    float: right;
+    font-size: 1.4rem;
+}

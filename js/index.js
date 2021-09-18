@@ -1,8 +1,11 @@
+
+//mouse click message
 $(document).ready(function() {
     $('#btnInfo').bind('click', function( event ){
-       alert('Creating Idealistic Designs');
+       alert('Welcome to the home of Idealistic Designs');
     });
 });
+//validation
 $(document).ready(function() {
  $('form[id="contact"]').validate({
     rules: {
@@ -24,3 +27,4 @@ $(document).ready(function() {
       form.submit();
     }
   })});
+  
