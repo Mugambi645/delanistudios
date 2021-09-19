@@ -12,3 +12,5 @@ Internet connection
 - Clone the repository then:
 - Use npm install -g browser-sync to download browsersync
 - Navigate to the repo folder and open the website with  browser-sync -w
+## Live version
+- [Live version](https://mugambi645.github.io/delanistudios/)
