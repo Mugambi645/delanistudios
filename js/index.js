@@ -42,7 +42,6 @@ $(document).ready(function() {
       onscroll(document, toggleBacktotop)
     }
   //back to top mouse over
-  let x = 0;
   function backToTopOver() {
     document.getElementById("arrow-right").innerHTML = "Back to top";
   }
