@@ -6,7 +6,7 @@
 - Boostrap4 - for improved visual perfomance and responsiveness.
 - Jquery - to handle client side form validation.
 ## Setup requirements
-Internet connection
+- Internet connection
 ## Getting started
 - Clone the repository and open the index.html file using you favorite browser or:-
 - Clone the repository then:
